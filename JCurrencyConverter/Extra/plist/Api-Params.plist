@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>secret_key</key>
+	<string>a2cf4c5f21c65c3803455951c710b3d5</string>
+	<key>source</key>
+	<string>USD</string>
+</dict>
+</plist>
